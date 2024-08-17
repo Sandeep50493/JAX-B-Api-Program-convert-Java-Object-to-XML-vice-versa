@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+	<addr>
+		<city>Bengaluru</city>
+		<country>India</country>
+		<state>Karnataka</state>
+	</addr>
+	<email>Sandeep@gmail.com</email>
+	<gender>Male</gender>
+	<id>1001</id>
+	<name>Sandeep Kumar</name>
+</person>
